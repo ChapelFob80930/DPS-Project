@@ -1,6 +1,6 @@
-# DPS-Project
+# QR Code Scam Detector
 
-This repository contains the **DPS-Project**, primarily developed using **Jupyter Notebook** and **Python**.
+This repository contains the **QR Code Scam Detector**, primarily developed using **Jupyter Notebook** and **Python**.
 
 ---
 
